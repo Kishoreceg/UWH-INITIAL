@@ -1,0 +1,5 @@
+streamlit
+Pillow
+scikit-image
+streamlit-image-comparison
+sahi==0.10.8   # pin this to avoid the AttributeError :contentReference[oaicite:1]{index=1}
